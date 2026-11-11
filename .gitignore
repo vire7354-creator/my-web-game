@@ -1,0 +1,5 @@
+# Godot 4 editor cache, imports, and generated project metadata.
+.godot/
+
+# Local export configuration (the shared Web preset lives in export_presets.cfg).
+export.cfg
